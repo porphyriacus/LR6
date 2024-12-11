@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/porphyriacus/Documents/453502/\u041e\u0410\u0438\u041f/LR6/Task_1/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate"
+		},
+		{
+			"file" : "/home/porphyriacus/Documents/453502/\u041e\u0410\u0438\u041f/LR6/Task_1/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate.rule"
+		},
+		{
+			"file" : "/home/porphyriacus/Documents/453502/\u041e\u0410\u0438\u041f/LR6/Task_1/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete.rule"
+		},
+		{
+			"file" : "/home/porphyriacus/Documents/453502/\u041e\u0410\u0438\u041f/LR6/Task_1/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build.rule"
+		},
+		{
+			"file" : "/home/porphyriacus/Documents/453502/\u041e\u0410\u0438\u041f/LR6/Task_1/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure.rule"
+		},
+		{
+			"file" : "/home/porphyriacus/Documents/453502/\u041e\u0410\u0438\u041f/LR6/Task_1/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download.rule"
+		},
+		{
+			"file" : "/home/porphyriacus/Documents/453502/\u041e\u0410\u0438\u041f/LR6/Task_1/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install.rule"
+		},
+		{
+			"file" : "/home/porphyriacus/Documents/453502/\u041e\u0410\u0438\u041f/LR6/Task_1/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/porphyriacus/Documents/453502/\u041e\u0410\u0438\u041f/LR6/Task_1/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch.rule"
+		},
+		{
+			"file" : "/home/porphyriacus/Documents/453502/\u041e\u0410\u0438\u041f/LR6/Task_1/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test.rule"
+		},
+		{
+			"file" : "/home/porphyriacus/Documents/453502/\u041e\u0410\u0438\u041f/LR6/Task_1/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"googletest-populate"
+		],
+		"name" : "googletest-populate"
+	}
+}

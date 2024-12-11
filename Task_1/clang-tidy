@@ -1,0 +1,6 @@
+Checks: 'clang-diagnostic-*, -clang-analyzer-*, cppcoreguidelines'
+WarningsArrors: true
+AnalazeTemporaryDtors: false
+CheckOptions:
+  - key: cppcoreguidelines-avoid-magic-numbers.IgnoreIntegerValues
+    value: '10'

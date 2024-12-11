@@ -1,0 +1,1 @@
+/usr/bin/c++  -fsanitize=thread -g CMakeFiles/main.dir/input.cpp.o CMakeFiles/main.dir/main.cpp.o CMakeFiles/main.dir/solve.cpp.o CMakeFiles/main.dir/str.cpp.o -o main 

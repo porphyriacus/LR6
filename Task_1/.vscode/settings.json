@@ -1,0 +1,7 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "clang-tidy.enabled": true, 
+    "clang-tidy.checks": "*",
+    "clang-tidy.exclude": ["*"], 
+    "clang-tidy.config": "path/to/your/clang-tidy/config/file"
+}
